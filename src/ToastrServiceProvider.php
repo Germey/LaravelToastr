@@ -17,7 +17,7 @@ class ToastrServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__.'/views' => base_path('resources/views/vendor/toastr'),
-            __DIR__.'/toastr.php' => config_path('toastr.php'),
+            __DIR__.'/config.php' => config_path('toastr.php'),
         ]);
     }
 
