@@ -1,5 +1,5 @@
 {
-  "name": "germey/laravel-toastr",
+  "name": "germey/toastr",
   "description": "Toastr package for laravel5",
   "keywords": ["laravel", "toastr"],
   "license": "MIT",
